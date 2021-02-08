@@ -1,0 +1,124 @@
+
+
+
+
+
+
+.section{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.center{
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 150px;
+}
+.images img{
+    width: 300px;
+    transition: transform .2s;
+}
+.images{
+    position: relative;
+}
+
+
+.shadow{
+    text-align: center;
+    background-color: #EEEEEE;
+    position: absolute;
+    width: 248px;
+    height: 101px;
+    top: 3860px;
+    margin-left: 25px;
+}
+
+.sofa{
+    color: #000000;
+    text-transform: capitalize;
+    font-family: MADE Canvas;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.dollars{
+    color: #780202;
+    text-transform: capitalize;
+    font-family: MADE Canvas;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    padding-bottom: 10px;
+}
+
+
+.btn{
+    background: #780202;
+    width: 119px;
+    height: 37px;
+    outline: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: MADE Canvas;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    margin-top: 20px;
+}
+
+
+
+
+.images img:hover{
+    transform: scale(1.1);
+}
+.icon{
+    padding-right: 8px;
+}
+
+.menues{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.menu{
+    line-height: 21px;
+    margin: 0 auto;
+    width: 180px;
+    height: 37px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.select{
+    width: 178px;
+    outline: none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 3px solid black;
+    font-family: MADE Canvas;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+
+.val{
+    background-color: #780202;
+    color: white;
+    text-decoration: underline;
+
+}
+
+
+

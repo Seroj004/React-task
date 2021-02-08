@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4e51776-8dd2-4714-9c92-1fdce9d63223" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/buy/buy.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/buy/buy.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/buy/card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/decor/decor.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/decor/decor.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/furnitures/furnitures.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/furnitures/furnitures.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/Arrow 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/Arrow 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/Rectangle 10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/Rectangle 11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/Rectangle 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/Rectangle 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/Rectangle 6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/Rectangle 7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/Rectangle 8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/Rectangle 9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/cardlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/line1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/line2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/line3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/line4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sellers/sellers.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sellers/sellsers.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/topheader/menuitem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/topheader/topheader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/topheader/topheader.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/action/menuAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/action/photoAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/action/sofaAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/menuReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/photoReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/rootReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/sofaReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/types/menuTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1o3mWih4NzF3f91dq1vGZ0lsEI8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project8" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\projects\project7\src\components\images" />
+      <recent name="C:\Users\LENOVO\Desktop\projects\project7\src" />
+      <recent name="C:\Users\LENOVO\Desktop\projects\project7\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4e51776-8dd2-4714-9c92-1fdce9d63223" name="Default Changelist" comment="" />
+      <created>1612523682384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612523682384</updated>
+      <workItem from="1612523691782" duration="1122000" />
+      <workItem from="1612610244275" duration="1333000" />
+      <workItem from="1612611818854" duration="376000" />
+      <workItem from="1612612232143" duration="6767000" />
+      <workItem from="1612686479176" duration="9899000" />
+      <workItem from="1612700639069" duration="13183000" />
+      <workItem from="1612765876457" duration="24635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
